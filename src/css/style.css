@@ -1,0 +1,106 @@
+
+h1{
+    border-bottom:solid 1px blue;
+    
+}
+.divStyle{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+.btnCouleur{
+    height: 100px;
+    width: 100px;
+}
+#whiteColor{
+    background-color: white;
+}
+#redColor{
+    background-color: red;
+}
+#greenColor{
+    background-color: green;
+}
+#blueColor{
+    background-color: blue;
+}
+.changeBorder{
+    height: 50px;
+    width: 100px;
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+}
+.fatBorder{
+    border: solid 5px;
+}
+.pointBorder{
+    border: dotted;
+}
+.lightBorder{
+    border: solid 1px;
+    
+}
+.fatBorderRed{
+    border-top: solid 8px red;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.mediumBorderRed{
+    border-top: solid 4px red ;
+}
+.lightBorderRed{
+    border-top: solid 2px red;
+    
+}
+.test{
+    width: 500px;
+    height: 300px;
+    
+}
+input::-webkit-outer-spin-button, 
+input::-webkit-inner-spin-button { margin-left: 20px; } 
+
+.divStyle2{
+    display: flex;
+}
+.border1{
+    border: solid 5px;
+    margin-right: 20px;
+}
+.border2{
+    border-top: solid 5px;
+    margin-right: 20px;
+}
+.border3{
+    border-right: solid 5px;
+    margin-right: 20px;
+}
+.border4{
+    border-bottom: solid 5px;
+    margin-right: 20px;
+}
+.border5{
+    border-left: solid 5px;
+}
+.radius1{
+    border-radius: solid 5px;
+    margin-right: 20px;
+}
+.radius2{
+    border-top-left-radius: solid 5px;
+    margin-right: 20px;
+}
+.radius3{
+    border-top-right-radius: solid 5px;
+    margin-right: 20px;
+}
+.radius4{
+    border-bottom-left-radius: solid 5px;
+    margin-right: 20px;
+}
+.radius5{
+    border-bottom-right-radius: solid 5px;
+}
